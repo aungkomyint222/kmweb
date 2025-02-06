@@ -46,7 +46,7 @@ const PricingSection = () => {
           period: "/one-time",
           description: "large-scale wordpress site ",
           features: [
-            "50+ page responsive website",
+            "200+ page responsive website",
             "Full SEO suite",
             "Custom functionality",
             "E-commerce integration",

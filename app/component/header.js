@@ -41,7 +41,7 @@ const Header = () => {
 
             {/* Desktop Navigation */}
             <nav className="hidden md:flex items-center space-x-8">
-              {['Home', 'About', 'Services', 'Contact'].map((item) => (
+              {['Home', 'About', 'Services', 'Contact','Secretmachine'].map((item) => (
                 <Link
                   key={item}
                   href={item === 'Home' ? '/' : `/${item.toLowerCase()}`}
@@ -78,7 +78,7 @@ const Header = () => {
             </button>
           </div>
           <nav className="flex flex-col items-center justify-center h-full space-y-8">
-            {['Home', 'About', 'Services', 'Contact'].map((item) => (
+            {['Home', 'About', 'Services', 'Contact','secretmachine'].map((item) => (
               <Link
                 key={item}
                 href={item === 'Home' ? '/' : `/${item.toLowerCase()}`}
@@ -92,7 +92,7 @@ const Header = () => {
               className="mt-8 px-8 py-3 bg-blue-500 text-white rounded-full hover:bg-blue-600 transform transition-all hover:scale-105 active:scale-95"
               onClick={toggleMenu}
             >
-              Get Started
+              Get Startedss
             </button>
           </nav>
         </div>

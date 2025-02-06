@@ -39,7 +39,7 @@ const Banner = () => {
             </button>
             
             <button className="px-8 py-4 border border-white/30 text-white rounded-full backdrop-blur-sm hover:bg-white/10 transition-all duration-300">
-              View Our Work
+              visit Secret Machine
             </button>
           </div>
 
