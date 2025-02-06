@@ -24,32 +24,9 @@ const Footer = () => {
             </ul>
           </div>
 
-          {/* Social Media */}
-          <div>
-            <h3 className="text-xl font-semibold mb-4">Follow Us</h3>
-            <div className="flex space-x-6">
-       
-              <a href="#" className="text-gray-400 hover:text-blue-500">
-               
-              </a>
-            </div>
-          </div>
+         
 
-          {/* Newsletter */}
-          <div>
-            <h3 className="text-xl font-semibold mb-4">Newsletter</h3>
-            <p className="text-gray-400 mb-4">Stay updated with the latest news and offers from us.</p>
-            <div className="flex">
-              <input
-                type="email"
-                placeholder="Your email address"
-                className="p-3 rounded-l-lg border border-gray-400 focus:outline-none"
-              />
-              <button className="p-3 bg-blue-500 text-white rounded-r-lg hover:bg-blue-600 transition-colors">
-                Subscribe
-              </button>
-            </div>
-          </div>
+       
         </div>
 
         {/* Footer Bottom */}
