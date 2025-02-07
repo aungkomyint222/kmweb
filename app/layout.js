@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 export const metadata = {
-  title: 'KM Web Design -  Bangkok',
+  title: 'KM Web Design - Bangkok',
   description: 'KM Web Design offers professional web development, SEO optimization, and custom WordPress design services to help your business grow online.',
   openGraph: {
     title: 'KM Web Design - Bangkok',
