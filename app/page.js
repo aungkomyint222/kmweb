@@ -190,7 +190,18 @@ export default function AnimationMaker() {
   return (
     <div className="min-h-screen bg-gray-900 text-white p-6 font-sans">
       <div className="max-w-5xl mx-auto bg-gray-800 rounded-xl shadow-2xl p-6">
-        <h1 className="text-3xl font-bold mb-6 text-blue-300">GIf Animation Maker</h1>
+      <h1 className="text-3xl font-bold mb-6 text-blue-300">GIF Animation Maker</h1>
+<p className="text-lg text-gray-600">
+  Developed by{" "}
+  <a
+    href="https://www.facebook.com/maximusakm"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-blue-500 hover:underline"
+  >
+    Maximus Aung
+  </a>
+</p>
 
         <div className="flex flex-wrap gap-4 mb-6">
           <button onClick={() => setShapeType('rect')} className={`px-4 py-2 rounded-lg ${shapeType === 'rect' ? 'bg-blue-600' : 'bg-gray-700'} hover:bg-blue-500 transition`}>Rectangle (R)</button>
