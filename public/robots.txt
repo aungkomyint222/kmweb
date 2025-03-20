@@ -1,8 +1,0 @@
-User-agent: *
-Disallow: 
-
-# Host
-Host: https://kmwebdesign.netlify.app
-
-# Sitemaps
-Sitemap: https://kmwebdesign.netlify.app/sitemap.xml
