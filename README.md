@@ -141,3 +141,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 MIT License - feel free to use in your own projects!
 
+## Contact
+
+Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Project Link: [https://github.com/yourusername/kmweb](https://github.com/yourusername/kmweb)
